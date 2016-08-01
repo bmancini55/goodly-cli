@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "Command line tool for goodly",
   "bin": {
-    "goodly": "bin"
+    "goodly": "bin/goodly.js"
   },
   "repository": "bmancini55/goodly-cli",
   "author": "Brian Mancini <bmancini@gmail.com>",
